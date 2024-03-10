@@ -1418,13 +1418,13 @@
   resolved "https://registry.yarnpkg.com/@open-wc/webpack-import-meta-loader/-/webpack-import-meta-loader-0.4.7.tgz#d8212640a386a66bf06a2a4c101936467839b5a1"
   integrity sha512-F3d1EHRckk2+ZpgEEAgVITp8BU9DYLBhKOhNMREeQ1BwILRIhrt+V1bebpnd0Mz595jzd7Yh1wSibLsXibkCpg==
 
-"@pkl-ts/parser@/tmp/pkl-ts-parser-0.2.0-3.tgz":
-  version "0.2.0-3"
-  resolved "/tmp/pkl-ts-parser-0.2.0-3.tgz#2f962354fdb456eab9c6903a5c3b4912d5e23efd"
+"@pkl-ts/parser@/tmp/pkl-ts-parser-0.2.0-5.tgz":
+  version "0.2.0-5"
+  resolved "/tmp/pkl-ts-parser-0.2.0-5.tgz#5fd0fe8b89fe20c590b772581f9242241b60f231"
 
-"@pkl-ts/parser@file:../../../../../../../tmp/pkl-ts-parser-0.2.0-2.tgz":
-  version "0.2.0-2"
-  resolved "file:../../../../../../../tmp/pkl-ts-parser-0.2.0-2.tgz#ba9520863923f2aeb104692953437abe6b8e9856"
+"@pkl-ts/parser@file:../../../../../../../tmp/pkl-ts-parser-0.2.0-4.tgz":
+  version "0.2.0-4"
+  resolved "file:../../../../../../../tmp/pkl-ts-parser-0.2.0-4.tgz#79bb3e3e2efaf617869f70001d96ad69a9c87f55"
 
 "@simple-dom/interface@^1.4.0":
   version "1.4.0"
