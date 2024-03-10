@@ -1,0 +1,7 @@
+age = 22
+name: String = "Steve Jobs"
+job {
+    title = "CEO"
+    company = "Apple"
+    yearsOfExperience = 1
+}
